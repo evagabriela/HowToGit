@@ -1,6 +1,6 @@
-Cómo hacer Git
+Explicacion de como utilizar Git de la manera basica que mas se utiliza:
 
-Se esta asumiendo que tiene un buen entendimiento de cómo usar terminal OSX o Linux para mobilizarse entre directorios y mostrar los contenidos usando los comandos `cd` y `ls`.
+En este articulo, se esta asumiendo que tiene un buen entendimiento de cómo usar terminal OSX o Linux para mobilizarse entre directorios y mostrar los contenidos usando los comandos `cd` y `ls`.
 
 Es diferente usar Github que usar git. "git" en minúscula es el nombre el sistema de control de versiones (VCS o "version control system.") "Github" es un servicio web donde millones de repositorios git son colectados, y hay herramientas gráficas para examinarlos y compartirlos.
 
